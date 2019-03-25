@@ -1,0 +1,33 @@
+.rv-container{
+    width: 68%;
+    margin: 0 auto;
+    padding-top: 70px;
+}
+.rv-title{
+    text-align: center;
+    color: #6c757d;
+    font-size: 35px;
+}
+.underlined{
+    background-image: linear-gradient(-90deg, #f59e60, #fbe08a);
+    width: 30px;
+    padding: 2px 139px;
+    margin: 0 auto;
+    border-radius: 2px;
+}
+.hotel-img{
+    width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+    height: 275px;
+}
+.hotel-titlecont{
+    background: rgba(6, 141, 148, 0.34);
+    color: white;
+    padding: 20px;
+    width: 94%;
+    bottom: 0px;
+    position: absolute;
+    font-size: 22px;
+    font-weight: bold;
+}

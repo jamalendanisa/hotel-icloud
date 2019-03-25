@@ -1,0 +1,12 @@
+.btn-book{
+    font-size: 16px;
+    font-weight: bold;
+    background-image: linear-gradient(-90deg, #f59e60, #fbe08a);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 35px;
+    width: 160px;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+}

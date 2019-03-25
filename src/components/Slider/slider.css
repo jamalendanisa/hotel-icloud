@@ -1,0 +1,37 @@
+.img-banner{
+    position:relative; 
+}
+.img-banner:before {
+    content: "";
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(6, 141, 148, 0.34)
+}
+.img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+}
+.banner-title{
+    position: absolute;
+    color: white;
+    top: 32%;
+    text-align: center;
+    left: 0;
+    right: 0;
+    font-size: 35px;
+}
+.btn-visit{
+    font-size: 16px;
+    font-weight: 500;
+    background-image: linear-gradient(-90deg, #f59e60, #fbe08a);
+    border-radius: 20px;
+    margin: 0 auto;
+    margin-top: 15px;
+    width: 160px;
+    cursor: pointer;
+}
